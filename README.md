@@ -1,3 +1,3 @@
 # Shatujitu.github.io
 
-## This website is under developmen
+## This website is under development
