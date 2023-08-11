@@ -1,3 +1,1 @@
-# Shatujitu.github.io
-
-## This website is under development
+![Preview](https://github.com/tmKamal/hosted-images/blob/master/under-construction/Document.gif?raw=true)<br/>  
